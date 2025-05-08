@@ -45,6 +45,7 @@
 - [ ] Tỷ lệ quy đổi điểm (Ví dụ: 1đ = 1.000đ hay tỷ lệ khác?)?
 - [ ] Thời hạn của điểm tích lũy?
 - [ ] Chính sách đổi điểm lấy quà?
+- [ ] Admin có thể can thiệp trực tiếp vào hạng của khách hàng không (ví dụ: nâng/hạ hạng thủ công)?
 
 ### 2.2. Quản lý hoá đơn tạm
 - [ ] Quy trình xử lý hoá đơn tạm
